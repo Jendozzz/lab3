@@ -1,0 +1,10 @@
+Ошибок в файле  8752
+telephone	1000
+weight	988
+snils	979
+passport_series	974
+university	956
+work_experience	955
+academic_degree	943
+worldview	930
+address	1027
